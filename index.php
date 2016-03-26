@@ -5,4 +5,4 @@
  * Date: 26/03/16
  * Time: 15:30
  */
-echo phpinfo(); 
+echo phpinfo(); // Changed #1
